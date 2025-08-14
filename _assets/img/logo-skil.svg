@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000108989298914314980670000001171263977566144426_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000092449760191304908990000017951990941981810073_);}
+	.st3{fill:#231F20;}
+</style>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="255.6332" y1="63.8466" x2="255.9982" y2="355.456">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		<polygon class="st0" points="256.02,49.64 8.84,371.34 503.2,371.34 		"/>
+		
+			<linearGradient id="SVGID_00000166668225242553976070000009489768612468704913_" gradientUnits="userSpaceOnUse" x1="313.2221" y1="135.3763" x2="313.5022" y2="359.1511">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000166668225242553976070000009489768612468704913_);" points="
+			313.52,124.48 123.84,371.34 503.2,371.34 		"/>
+		
+			<linearGradient id="SVGID_00000178886560959629260360000008102904005264444586_" gradientUnits="userSpaceOnUse" x1="379.2746" y1="217.5935" x2="379.4571" y2="363.3982">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		</linearGradient>
+		
+			<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000178886560959629260360000008102904005264444586_);" points="
+			379.47,210.49 255.88,371.34 503.06,371.34 		"/>
+	</g>
+	<g>
+		<path class="st3" d="M48.46,461.73h-8.37l-9.11-13.75l-3.12,2.1v11.65h-7.38V429.1h7.38v14.93l2.9-3.84l9.42-11.09h8.18
+			l-12.13,14.44L48.46,461.73z"/>
+		<path class="st3" d="M62.58,461.73V429.1h7.38v32.63H62.58z"/>
+		<path class="st3" d="M88.46,461.73V429.1h7.37v32.63H88.46z"/>
+		<path class="st3" d="M138.37,439.28c0,3.51-1.17,6.2-3.51,8.06c-2.34,1.86-5.67,2.79-9.98,2.79h-3.17v11.61h-7.37V429.1h11.11
+			c4.22,0,7.43,0.85,9.62,2.56C137.27,433.36,138.37,435.9,138.37,439.28z M121.71,444.45h2.42c2.27,0,3.97-0.42,5.09-1.26
+			c1.13-0.84,1.69-2.07,1.69-3.67c0-1.62-0.47-2.82-1.41-3.59c-0.94-0.77-2.42-1.16-4.44-1.16h-3.36V444.45z"/>
+		<path class="st3" d="M174.72,461.73h-20.03V429.1h20.03v5.67h-12.66v7.16h11.78v5.67h-11.78v8.41h12.66V461.73z"/>
+		<path class="st3" d="M191.72,461.73V429.1h7.37v32.63H191.72z"/>
+		<path class="st3" d="M217.6,461.73V429.1h7.37v26.92h14.11v5.71H217.6z"/>
+		<path class="st3" d="M265.7,442.53l7.26-13.44h7.95l-11.54,19.93v12.7h-7.33v-12.48l-11.54-20.15h7.99L265.7,442.53z"/>
+		<path class="st3" d="M295.03,461.73V429.1h7.37v26.92h14.11v5.71H295.03z"/>
+		<path class="st3" d="M332.3,461.73V429.1h7.37v32.63H332.3z"/>
+		<path class="st3" d="M358.18,461.73V429.1h7.37v32.63H358.18z"/>
+		<path class="st3" d="M397.48,461.73h-7.37v-26.87h-9.45v-5.76h26.27v5.76h-9.45V461.73z"/>
+		<path class="st3" d="M435.44,461.73h-7.37v-26.87h-9.45v-5.76h26.27v5.76h-9.45V461.73z"/>
+		<path class="st3" d="M491.56,445.37c0,5.4-1.43,9.55-4.28,12.45s-6.95,4.35-12.28,4.35c-5.33,0-9.42-1.45-12.28-4.35
+			c-2.86-2.9-4.28-7.07-4.28-12.5s1.43-9.58,4.29-12.44s6.97-4.3,12.31-4.3c5.34,0,9.43,1.44,12.26,4.33
+			C490.14,435.8,491.56,439.95,491.56,445.37z M466.17,445.37c0,3.65,0.74,6.39,2.21,8.24c1.47,1.84,3.68,2.77,6.61,2.77
+			c5.88,0,8.83-3.67,8.83-11c0-7.35-2.93-11.03-8.78-11.03c-2.94,0-5.15,0.93-6.64,2.78C466.92,438.98,466.17,441.73,466.17,445.37z
+			"/>
+	</g>
+</g>
+</svg>
